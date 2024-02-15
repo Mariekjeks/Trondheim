@@ -1,0 +1,155 @@
+body {
+    margin: 0;
+    text-align: center;
+    font-family: 'Merriweather', serif ;
+}
+
+h1 {
+    color: #FF8911;
+    font-family: 'Neucha', cursive;
+    font-size: 5.625rem;
+    padding-top: 100px;
+    line-height: 2;
+    margin-top: 0;
+    
+}
+
+h2 {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2.8rem;
+    color: black;
+    font-weight: normal;
+}
+
+h3 {
+    font-family: 'Montserrat', sans-serif;
+    color: black;
+}
+
+p {
+    color: black;
+    line-height: 2;
+}
+
+hr {
+    
+    border-style: none;
+    border-top: 7px dotted black;
+    width: 3%;
+    margin: 100px auto;
+}
+
+.top-container {
+    position: relative;
+}
+
+.middle-container {
+    background-color: #FAEF5D;
+    padding-top: 20px;
+    padding-bottom: 100px;
+}
+
+.bottom-container {
+    background-color: #40A2E3;
+    padding-top: 50px;
+    padding-bottom: 40px;
+}
+
+.lightbulb-one {
+    position: absolute;
+    right: 500px;
+    top: 50px;
+    width: 150px;
+}
+
+.lightbulb-two {
+    position: absolute;
+    left: 450px;
+    bottom: 300px;
+    width: 150px;
+}
+
+.om-petter {
+    padding-top: 50px;
+}
+
+.intro {
+    width: 30%;
+    margin: auto;
+    padding-top: 20px;
+}
+
+.oppfinnelser-row {
+    width: 50%;
+    margin: 200px auto 200px auto;
+    text-align: left;
+}
+
+.megahjelper {
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+}
+
+.kaffe {
+    width: 25%;
+    float: right;
+    margin-left: 30px;
+}
+
+.sparegris {
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+}
+
+.gizmo {
+    width: 25%;
+    float: right;
+    margin-left: 30px;
+}
+
+.ta-kontakt {
+    padding: 40px 0 40px 0;
+}
+
+.åpningstider {
+    font-style: italic;
+    width: 30%;
+    margin: auto;
+    padding-bottom: 50px; 
+}
+
+.btn {
+    -webkit-border-radius: 8;
+    -moz-border-radius: 8;
+    border-radius: 8px;
+    font-family: Arial;
+    color: black;
+    font-size: 20px;
+    background: #FF8911;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+  }
+  
+  .btn:hover {
+    background: #FFA447;
+    text-decoration: none;
+  }
+
+  #testimonials {
+    text-align: center;
+    background-color: white; 
+    color: black;
+}
+
+.testimonial-image {
+    width: 20%;
+    border-radius: 100%;
+    margin: 20px;
+}
+
+.carousel-item {
+    padding: 7% 15%;
+}
+
